@@ -5,10 +5,18 @@
 
 ```python
 class Person:
-
-def __init__(self):
-  self.name = "Emanuel"
-  self.lastname = "Sotomayor"
-  self.age = "24"
-
+  def __init__(self):
+    self.name = "Emanuel"
+    self.lastname = "Sotomayor"
+    self.age = "24"
+    self.skills = [
+      "Python", 
+      "Django", 
+      "HTML5", 
+      "CSS3", 
+      "Bootstrap", 
+      "PHP", 
+      "MySQL", 
+      "C"
+     ]
 ```
