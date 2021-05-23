@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Emanuel Sotomayor!<img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" alt="No image" width="50"/></h1>
+<img src="http://2019.phdays.com/local/templates/phdays/build/img/hacker.gif" alt="No image" align="right" width="300"/>
+<p><em>Licenciatura en sistemas en </em><a href="http://www.unla.edu.ar/" target="_blank">Universidad nacional de Lanús </a><img src="https://media.giphy.com/media/tOAOc4dz63hGm0tLqt/giphy.gif" width="30"/></p>
+<p><em>Tecnicatura en análisis de sistemas en </em><a href="http://www.unla.edu.ar/" target="_blank">IFTS N°4</a></p>
 
-<!--
-**EmanuelSotomayor/EmanuelSotomayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Person:
 
-Here are some ideas to get you started:
+def __init__(self):
+  self.name = "Emanuel"
+  self.lastname = "Sotomayor"
+  self.age = "24"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
