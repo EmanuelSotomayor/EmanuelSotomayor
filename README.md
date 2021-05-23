@@ -21,6 +21,9 @@ class Me:
       "MySQL", 
       "C"
      ]
+     
+ def __str__(self):
+  return f'Hi im {self.name} {self.lastname}'
 ```
 <h2>Social networks</h2>
 
