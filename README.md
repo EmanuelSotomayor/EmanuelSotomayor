@@ -1,5 +1,5 @@
 <h1>Hi, I'm Emanuel Sotomayor!<img src="https://i.pinimg.com/originals/1b/34/df/1b34dfc0a9bf5563e0f960a24b6862db.gif" alt="No image" width="50"/></h1>
-<img src="https://i.pinimg.com/originals/03/d2/84/03d28495bbd28615c9aef77a1dd6274f.gif" alt="No image" align="right" width="300"/>
+<img src="https://i.pinimg.com/originals/03/d2/84/03d28495bbd28615c9aef77a1dd6274f.gif" alt="No image" align="right" width="200"/>
 <p><em>Licenciatura en sistemas en </em><a href="http://www.unla.edu.ar/" target="_blank">Universidad nacional de Lanús </a><img src="https://media.giphy.com/media/tOAOc4dz63hGm0tLqt/giphy.gif" alt="No image" width="30"/></p>
 <p><em>Tecnicatura en análisis de sistemas en </em><a href="http://www.unla.edu.ar/" target="_blank">IFTS N°4 </a><img src="https://media.giphy.com/media/UEQQNxLdEgDXq1Aseh/giphy.gif" alt="No image" width="35"/></p>
 
