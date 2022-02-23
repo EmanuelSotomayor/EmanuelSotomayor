@@ -5,25 +5,13 @@
 
 <h2>About me</h2>
 
-```python
-class Me:
-  def __init__(self):
-    self.name = "Emanuel"
-    self.lastname = "Sotomayor"
-    self.age = "24"
-    self.skills = [
-      "Python", 
-      "Django", 
-      "HTML5", 
-      "CSS3", 
-      "Bootstrap", 
-      "PHP", 
-      "MySQL", 
-      "C"
-     ]
-     
- def __str__(self):
-  return f'Hi im {self.name} {self.lastname}'
+```java
+public class Me{
+  private String name;
+  private String lastname;
+  private Integer age;
+  private List<String>;
+}
 ```
 <h2>Social networks</h2>
 
