@@ -32,12 +32,17 @@ public class Me{
 
 <h2>Skills</h2>
 
+[![Java:](https://img.shields.io/badge/Programming-Java-59666C?style=for-the-badge&logo=Java&labelColor=990000)]()
+[![Hibernate:](https://img.shields.io/badge/Framework-Hibernate-59666C?style=for-the-badge&logo=Hibernate&labelColor=8E620E)]()
+[![MySQL:](https://img.shields.io/badge/DBMS-MySQL-59666C?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=4169E1)]()
+[![C:](https://img.shields.io/badge/Programming-C-59666C?style=for-the-badge&logo=c&logoColor=white&labelColor=239120)]()
+[![HTML5:](https://img.shields.io/badge/Markup-HTML5-59666C?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)]()
+[![CSS3:](https://img.shields.io/badge/Styling-CSS3-59666C?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)]()
+[![Bootstrap:](https://img.shields.io/badge/Styling-Bootstrap-59666C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)]()
 
-[![Python:](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![Django:](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![PHP:](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![MySQL:](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![C:](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![HTML5:](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3:](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Bootstrap:](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+<h2>Skills in progress</h2>
+
+[![Spring:](https://img.shields.io/badge/Framework-Spring-59666C?style=for-the-badge&logo=Spring&logoColor=white&labelColor=6DB33F)]()
+[![Spring Boot:](https://img.shields.io/badge/Framework-SpringBoot-59666C?style=for-the-badge&logo=Springboot&logoColor=white&labelColor=6DB33F)]()
+[![Thymeleaf:](https://img.shields.io/badge/Server-Thymeleaf-59666C?style=for-the-badge&logo=Thymeleaf&logoColor=white&labelColor=005F0F)]()
+[![React:](https://img.shields.io/badge/Framework-React-59666C?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB)]()
