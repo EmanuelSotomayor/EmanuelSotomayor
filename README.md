@@ -39,7 +39,7 @@ public class Me{
 [![C:](https://img.shields.io/badge/Programming-C-59666C?style=for-the-badge&logo=c&logoColor=white&labelColor=239120)]()
 [![HTML5:](https://img.shields.io/badge/Markup-HTML5-59666C?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)]()
 [![CSS3:](https://img.shields.io/badge/Styling-CSS3-59666C?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)]()
-[![Javascript:](https://img.shields.io/badge/Styling-Bootstrap-59666C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7952B3)]()
+[![Javascript:](https://img.shields.io/badge/Programming-Bootstrap-59666C?style=for-the-badge&logo=javascript&logoColor=white&labelColor=EFD81D)]()
 [![Bootstrap:](https://img.shields.io/badge/Styling-Bootstrap-59666C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)]()
 
 <h2>Skills in progress</h2>
